@@ -75,8 +75,9 @@
   }
 
   #navbar{
-    width:50%;
+    width: 50%;
   }
+
   #navbar nav a.menu-icon{
     display: block;
     float: right;
