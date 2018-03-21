@@ -74,9 +74,6 @@
     display: none;
   }
 
-  #navbar{
-    height: 7%;
-  }
 
   #navbar nav a.menu-icon{
     display: block;
