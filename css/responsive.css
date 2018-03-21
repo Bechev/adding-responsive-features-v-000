@@ -74,6 +74,9 @@
     display: none;
   }
 
+  #navbar{
+    width:50%;
+  }
   #navbar nav a.menu-icon{
     display: block;
     float: right;
